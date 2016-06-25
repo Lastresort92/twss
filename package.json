@@ -1,0 +1,19 @@
+{
+  "name": "twss",
+  "version": "1.0.0",
+  "description": "That's what she said!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lastresort92/twss.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lastresort92/twss/issues"
+  },
+  "homepage": "https://github.com/Lastresort92/twss#readme"
+}
